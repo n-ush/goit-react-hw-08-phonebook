@@ -1,0 +1,17 @@
+.list {
+  width: 300px;
+}
+
+.list_item {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+.contact {
+  display: flex;
+}
+
+.contact p {
+  margin-right: 5px;
+}
